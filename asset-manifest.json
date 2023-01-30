@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-assignment4/static/css/main.2ed7a6a6.css",
-    "main.js": "/react-assignment4/static/js/main.6861959e.js",
+    "main.css": "/react-assignment4/static/css/main.f8dc16ba.css",
+    "main.js": "/react-assignment4/static/js/main.d03a4c7a.js",
     "index.html": "/react-assignment4/index.html",
-    "main.2ed7a6a6.css.map": "/react-assignment4/static/css/main.2ed7a6a6.css.map",
-    "main.6861959e.js.map": "/react-assignment4/static/js/main.6861959e.js.map"
+    "main.f8dc16ba.css.map": "/react-assignment4/static/css/main.f8dc16ba.css.map",
+    "main.d03a4c7a.js.map": "/react-assignment4/static/js/main.d03a4c7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ed7a6a6.css",
-    "static/js/main.6861959e.js"
+    "static/css/main.f8dc16ba.css",
+    "static/js/main.d03a4c7a.js"
   ]
 }
